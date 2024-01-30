@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Keshav</h1>
-<h3 align="center">Backend | Frontend | Security</h3>
+<h3 align="center">Full Stack | Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshavp&label=Profile%20views&color=0e75b6&style=flat" alt="kshavp" /> </p>
 
-- 👯 I’m looking to collaborate on **Information Security, Backend Development**
+- 👯 I’m looking to collaborate on **Information Security, Full Stack Development**
 
 - 📫 How to reach me **keshavpriyam@gmail.com**
 
